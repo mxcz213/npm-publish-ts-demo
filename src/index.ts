@@ -1,0 +1,1 @@
+export const Hello = (ts: string) => console.log('hello' + ts);
